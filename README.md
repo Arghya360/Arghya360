@@ -1,27 +1,26 @@
-<h1 align="center">Hi 👋, I'm Arghya</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, I am Arghya
+#### Web Developer
+![Web Developer](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+
+I’m a Front-End Web Developer with a relentless drive to craft flawless websites that guarantee 100% client satisfaction. My passion lies in continuous learning and sharing my expertise openly with the community. I thrive on solving real-world problems through strategic, goal-oriented approaches, always keeping the end goal in sight. Over the years, I’ve successfully built hundreds of websites, each reflecting my commitment to quality and seamless communication. While WordPress is my go-to platform, I also enjoy diving into technologies like ReactJS, JavaScript, and PHP to bring innovative solutions to life.
+
+Skills:  REACT JS / JS / HTML / CSS /PHP
+
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Development 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya360&label=Profile%20views&color=0e75b6&style=flat" alt="arghya360" /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arghya360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arghya360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arghya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arghya360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arghya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/arghya360)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya360" alt="arghya360" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=arghya360)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Web Development**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghya360)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning **MERN STACK**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arghya360&show_icons=true&count_private=true)  
 
-- 💬 Ask me about **MARN STACK, JAVA SCRIPT,REACT JS,PHP**
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/arghya360/contributions?format=svg&private=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arghya360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya360" height="30" width="40" /></a>
-<a href="https://fb.com/arghya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arghya" height="30" width="40" /></a>
-<a href="https://instagram.com/arghya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arghya" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=arghya360)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya360&show_icons=true&locale=en&layout=compact" alt="arghya360" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghya360&show_icons=true&locale=en" alt="arghya360" /></p>
