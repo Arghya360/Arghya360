@@ -22,5 +22,3 @@ Skills:  REACT JS / JS / HTML / CSS /PHP
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/arghya360/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=arghya360)  
-
