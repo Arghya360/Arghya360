@@ -22,35 +22,38 @@ Every project I work on reflects my commitment to **quality, innovation, and use
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 #### 🧰 Tools & Platforms  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
 ### 🔭 Currently Working On  
-- Building modern **React.js** and **WordPress** websites.  
+- Building modern **React.js**, **WordPress**, and **Wix** websites.  
 - Experimenting with **Next.js**, **Tailwind CSS**, and **API integrations**.  
-- Improving project workflows with better performance optimization.  
+- Enhancing performance and optimizing front-end workflow.  
 
 ---
 
 ### 🌱 Currently Learning  
 - Advanced **React Hooks** and **State Management**.  
 - Back-end fundamentals with **Node.js** and **Express.js**.  
-- Best practices for **UI/UX design systems** and **accessibility**.
+- **UI/UX Design Systems** and **Accessibility Standards**.  
 
 ---
 
 ### 🤝 Collaboration & Community  
 - 👯 Open to collaborating on **open-source** and **frontend** projects.  
-- 💬 Ask me about **Web Development**, **React**, or **WordPress customization**.  
-- 🌍 I believe in creating with purpose — building tools that make the web better.
+- 💬 Ask me about **Web Development**, **WordPress**, or **Wix customization**.  
+- 🌍 I believe in creating with purpose — building tools that make the web better.  
 
 ---
 
