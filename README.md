@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Arghya!  
 #### 🚀 Front-End Web Developer | UI Engineer | Tech Enthusiast  
 
-![Web Developer](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+
 
 ---
 
