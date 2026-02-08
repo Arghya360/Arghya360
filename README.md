@@ -1,74 +1,70 @@
-👋 Hi there, I'm Arghya
-🚀 Front-End Web Developer | UI Engineer | Tech Enthusiast
-🧠 About Me
+<h1 align="center">Hi 👋, I'm Arghya</h1>
+<h3 align="center">🚀 Front-End Web Developer | UI Engineer | Tech Enthusiast</h3>
 
-I’m a passionate Front-End Web Developer focused on building high-performance, responsive, and visually engaging web experiences.
-I care deeply about clean code, scalable architecture, and intuitive UI/UX.
+<p align="center">
+  I build <b>modern, responsive, and user-focused web experiences</b><br/>
+  using clean code, scalable architecture, and thoughtful UI/UX.
+</p>
 
-I enjoy turning complex problems into elegant digital solutions, constantly exploring new technologies, and sharing knowledge with the developer community.
-Every project I work on reflects my commitment to quality, innovation, and user-focused design.
+---
 
-🧩 Tech Stack & Skills
-💻 Languages & Frameworks
+## 🧠 About Me
+- 🎯 Focused on **high-performance front-end development**
+- ✨ Passionate about **clean code & seamless user experience**
+- 🔍 Love turning complex problems into simple, elegant solutions
+- 🌱 Always learning, always building
 
-HTML5, CSS3, JavaScript (ES6+)
+---
 
-React.js
+## 🛠️ Tech Stack
 
-PHP
+### 💻 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-WordPress
+### 🧩 CMS & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 
-Wix
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-🧰 Tools & Platforms
+---
 
-Git & GitHub
+## 🔭 Currently Working On
+- ⚛️ Building modern apps with **React & Next.js**
+- 🎨 Designing scalable **UI components & systems**
+- ⚡ Improving performance and front-end workflows
 
-VS Code
+---
 
-Figma
+## 🌱 Currently Learning
+- Advanced **React Hooks & State Management**
+- **Node.js & Express.js** fundamentals
+- **Accessibility (a11y)** & design systems
 
-Vercel
+---
 
-WordPress & Wix CMS
+## 🤝 Collaboration
+- 👯 Open to **open-source & frontend projects**
+- 💬 Ask me about **Web Development, WordPress, or Wix**
+- 🌍 Building the web with purpose
 
-🔭 Currently Working On
+---
 
-Building modern React.js, WordPress, and Wix websites
+## 📫 Connect With Me
+- 🌐 Portfolio: https://arghya.esportnoyon.com
+- 💼 LinkedIn: https://www.linkedin.com/in/arghyabiswas360/
+- 📧 Email: codehub0792@gmail.com
 
-Exploring Next.js, Tailwind CSS, and API integrations
+---
 
-Improving performance and optimizing front-end workflows
-
-🌱 Currently Learning
-
-Advanced React Hooks & State Management
-
-Back-end fundamentals with Node.js & Express.js
-
-UI/UX Design Systems & Web Accessibility (a11y)
-
-🤝 Collaboration & Community
-
-👯 Open to collaborating on frontend and open-source projects
-
-💬 Ask me about Web Development, WordPress, or Wix customization
-
-🌍 I believe in creating with purpose—building tools that make the web better
-
-⚡ Fun Fact
-
-“Clean code leads to smart design — and smart design creates happy users.”
-
-📫 Connect With Me
-
-🔗 Portfolio: https://arghya.esportnoyon.com/
-
-💼 LinkedIn: https://www.linkedin.com/in/arghyabiswas360/
-
-📘 Facebook: https://www.facebook.com/share/1ACp7gS3bM/
-
-✉️ Email: codehub0792@gmail.com
-
-⭐ Code with passion. Design with precision. Deliver with purpose.
+⭐ *Clean code leads to smart design — smart design creates happy users.*
